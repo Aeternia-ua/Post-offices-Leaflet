@@ -1,6 +1,6 @@
 // setting the initial map coordinates - Lat, Lng, zoom
 var mymap = L.map('mapid', {
-    center: [48.3794, 31.1656],
+    center: [49.0139, 31.2858],
     zoom: 6,
     minZoom: 3,
     maxZoom: 20
